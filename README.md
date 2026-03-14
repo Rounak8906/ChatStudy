@@ -144,7 +144,7 @@ client.close()
 ```
 Output:
 
-![alt text](<../Screenshot 2026-03-12 083815.png>)
+![alt text](image76.png)
 
 ## Result:
 
